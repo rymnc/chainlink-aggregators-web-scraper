@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^3.7.2",
+    "ethers": "^5.0.19",
     "nightmare": "^3.0.2"
   }
 }
