@@ -1,9 +1,10 @@
+require('dotenv').config()
 const cheerio = require('cheerio'),
     axios = require('axios'),
     url = `https://docs.chain.link/docs/reference-contracts`;
 
 const ethers = require('ethers')
-const provider = new ethers.providers.JsonRpcProvider('https://eth.framework.xyz')
+const provider = new ethers.providers.JsonRpcProvider(process.env.PROVIDER_URL)
 const abi = [{ "inputs": [], "name": "aggregator", "outputs": [{ "internalType": "address", "name": "", "type": "address" }], "stateMutability": "view", "type": "function" }]
 const fs = require('fs')
 
