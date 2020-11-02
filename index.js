@@ -14,7 +14,6 @@ axios.get(url)
         for (let i = 1; ; i++) {
             const aggregatorAddress = $(`#content-container > section.content-body.grid-75 > div.markdown-body > div:nth-child(6) > div > table tr:nth-child(${i}) td:nth-child(2)`).text().trim()
             const pair = $(`#content-container > section.content-body.grid-75 > div.markdown-body > div:nth-child(6) > div > table tr:nth-child(${i}) td:nth-child(1)`).text()
-            console.log(aggregatorAddress, pair)
             if (aggregatorAddress === '' || pair === '') break;
             const contract = new ethers.Contract(aggregatorAddress, abi, provider)
             const eventAggregator = await contract.aggregator()
