@@ -1,14 +1,14 @@
 {
   "name": "chainlink-scraper",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "get the chainlink contracts that emit events",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Aaryamann Challani <aaryamannchallani7@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.0",
