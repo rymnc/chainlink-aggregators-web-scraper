@@ -1,0 +1,287 @@
+[
+  {
+    "pair": "ADA/USD",
+    "aggregatorAddress": "0xAE48c91dF1fE419994FFDa27da09D5aC69c30f55",
+    "eventAggregator": "0xf94800E6e36b0dc860F6f31e7cDf1086099E8c0E"
+  },
+  {
+    "pair": "AUD/USD",
+    "aggregatorAddress": "0x77F9710E7d0A19669A13c055F62cd80d313dF022",
+    "eventAggregator": "0x3A33c0eFD0EB8fd38a6E1904dF1E32f95F67616b"
+  },
+  {
+    "pair": "BAT/ETH",
+    "aggregatorAddress": "0x0d16d4528239e9ee52fa531af613AcdB23D88c94",
+    "eventAggregator": "0x3146392934Da3AE09447CD7Fe4061d8aa96B50ae"
+  },
+  {
+    "pair": "BCH/USD",
+    "aggregatorAddress": "0x9F0F69428F923D6c95B781F89E165C9b2df9789D",
+    "eventAggregator": "0x744704c31a2E46AD60c7CDf0212933B4c4c2c9eC"
+  },
+  {
+    "pair": "BNB/USD",
+    "aggregatorAddress": "0x14e613AC84a31f709eadbdF89C6CC390fDc9540A",
+    "eventAggregator": "0x90888CDDaD598570c6eDC443eee9aaDB63cDA3C4"
+  },
+  {
+    "pair": "BNT/ETH",
+    "aggregatorAddress": "0xCf61d1841B178fe82C8895fe60c2EDDa08314416",
+    "eventAggregator": "0x0A3ec7050884F00B5D9b11131De59DCed0fAFeDB"
+  },
+  {
+    "pair": "BNT/USD",
+    "aggregatorAddress": "0x1E6cF0D433de4FE882A437ABC654F58E1e78548c",
+    "eventAggregator": "0x42Dec4a0882756497DB9843a556a55dcd70b1995"
+  },
+  {
+    "pair": "BTC/ETH",
+    "aggregatorAddress": "0xdeb288F737066589598e9214E782fa5A8eD689e8",
+    "eventAggregator": "0xbD72DA70007E47AAf1BBD84918675392cf6885F7"
+  },
+  {
+    "pair": "BTC/USD",
+    "aggregatorAddress": "0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c",
+    "eventAggregator": "0xF570deEffF684D964dc3E15E1F9414283E3f7419"
+  },
+  {
+    "pair": "BUSD/ETH",
+    "aggregatorAddress": "0x614715d2Af89E6EC99A233818275142cE88d1Cfd",
+    "eventAggregator": "0x661BE809784E094eA70F980939Cf3f09337A3178"
+  },
+  {
+    "pair": "BZRX/ETH",
+    "aggregatorAddress": "0x8f7C7181Ed1a2BA41cfC3f5d064eF91b67daef66",
+    "eventAggregator": "0xb58b218365CD12AD765bA8A9F88E881D2b2a01C2"
+  },
+  {
+    "pair": "CHF/USD",
+    "aggregatorAddress": "0x449d117117838fFA61263B61dA6301AA2a88B13A",
+    "eventAggregator": "0xdf005CaD29AAC8b1170960807f99B62aaeD1bb0a"
+  },
+  {
+    "pair": "COMP/USD",
+    "aggregatorAddress": "0xdbd020CAeF83eFd542f4De03e3cF0C28A4428bd5",
+    "eventAggregator": "0x150631a2e822d3ed7D46df9A270ce7134a16De89"
+  },
+  {
+    "pair": "DAI/ETH",
+    "aggregatorAddress": "0x773616E4d11A78F511299002da57A0a94577F1f4",
+    "eventAggregator": "0xd866A07Dea5Ee3c093e21d33660b5579C21F140b"
+  },
+  {
+    "pair": "DAI/USD",
+    "aggregatorAddress": "0xAed0c38402a5d19df6E4c03F4E2DceD6e29c1ee9",
+    "eventAggregator": "0xFe16F630Eb0Ca70661B071360701abf980126d3e"
+  },
+  {
+    "pair": "ENJ/ETH",
+    "aggregatorAddress": "0x24D9aB51950F3d62E9144fdC2f3135DAA6Ce8D1B",
+    "eventAggregator": "0x20aff4833e5D261bB34BC3980d88aD17A3FE90Dc"
+  },
+  {
+    "pair": "ETC/USD",
+    "aggregatorAddress": "0xaEA2808407B7319A31A383B6F8B60f04BCa23cE2",
+    "eventAggregator": "0x41306Eb5fC11A68C284c19Ba3B9510c0252E0a34"
+  },
+  {
+    "pair": "ETH/USD",
+    "aggregatorAddress": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
+    "eventAggregator": "0x00c7A37B03690fb9f41b5C5AF8131735C7275446"
+  },
+  {
+    "pair": "ETH/XDR",
+    "aggregatorAddress": "0xb022E2970b3501d8d83eD07912330d178543C1eB",
+    "eventAggregator": "0x460DE59c7768e7ff17939F01Cb84F965c4E88266"
+  },
+  {
+    "pair": "EUR/USD",
+    "aggregatorAddress": "0xb49f677943BC038e9857d61E7d053CaA2C1734C1",
+    "eventAggregator": "0x8f71c9c583248A11CAcBbC8FD0D5dFa483D3b109"
+  },
+  {
+    "pair": "FTM/ETH",
+    "aggregatorAddress": "0x2DE7E4a9488488e0058B95854CC2f7955B35dC9b",
+    "eventAggregator": "0x3aaFb0E5b57bb19D02FcB6656059B34d8E79471f"
+  },
+  {
+    "pair": "FTSE/GBP",
+    "aggregatorAddress": "0xE23FA0e8dd05D6f66a6e8c98cab2d9AE82A7550c",
+    "eventAggregator": "0xc95B41df94F3890122B2bcEf9005AFDe17773dB2"
+  },
+  {
+    "pair": "Fast Gas/Gwei",
+    "aggregatorAddress": "0x169E633A2D1E6c10dD91238Ba11c4A708dfEF37C",
+    "eventAggregator": "0xca947C9ddF31EE6c2E994EFB794Fdb0819AEEeD0"
+  },
+  {
+    "pair": "GBP/USD",
+    "aggregatorAddress": "0x5c0Ab2d9b5a7ed9f470386e82BB36A3613cDd4b5",
+    "eventAggregator": "0x3a6e27b663593E34a7FB80bA9544d9E8BAbdF001"
+  },
+  {
+    "pair": "JPY/USD",
+    "aggregatorAddress": "0xBcE206caE7f0ec07b545EddE332A47C2F75bbeb3",
+    "eventAggregator": "0x87CFEA02C8322653a7335C6f72Be19ce54ECbFb5"
+  },
+  {
+    "pair": "KNC/ETH",
+    "aggregatorAddress": "0x656c0544eF4C98A6a98491833A89204Abb045d6b",
+    "eventAggregator": "0x075Fe11b3Dd9c605f7fd09FF9310e3E37baaBC9e"
+  },
+  {
+    "pair": "KNC/USD",
+    "aggregatorAddress": "0xf8fF43E991A81e6eC886a3D281A2C6cC19aE70Fc",
+    "eventAggregator": "0xa811Ff165b082c0507Ce9a5a660Fb3D7eEeCb88A"
+  },
+  {
+    "pair": "LEND/ETH",
+    "aggregatorAddress": "0xc9dDB0E869d931D031B24723132730Ecf3B4F74d",
+    "eventAggregator": "0x0a2539a614E28ddDD02ebF396D2611B4f7d552FC"
+  },
+  {
+    "pair": "LEND/USD",
+    "aggregatorAddress": "0x4aB81192BB75474Cf203B56c36D6a13623270A67",
+    "eventAggregator": "0x0227fb846b48e209d56D79b0A3109FdA561db821"
+  },
+  {
+    "pair": "LINK/ETH",
+    "aggregatorAddress": "0xDC530D9457755926550b59e8ECcdaE7624181557",
+    "eventAggregator": "0x7E6C635d6A53B5033D1B0ceE84ecCeA9096859e4"
+  },
+  {
+    "pair": "LINK/USD",
+    "aggregatorAddress": "0x2c1d072e956AFFC0D435Cb7AC38EF18d24d9127c",
+    "eventAggregator": "0x8cDE021F0BfA5f82610e8cE46493cF66AC04Af53"
+  },
+  {
+    "pair": "LRC/ETH",
+    "aggregatorAddress": "0x160AC928A16C93eD4895C2De6f81ECcE9a7eB7b4",
+    "eventAggregator": "0x174b0B72ca036b0b64F190Ed83630751195D3362"
+  },
+  {
+    "pair": "LTC/USD",
+    "aggregatorAddress": "0x6AF09DF7563C363B5763b9102712EbeD3b9e859B",
+    "eventAggregator": "0x3F2d1Ff4930318B5a7c301E1bf7e703DcF6D83E3"
+  },
+  {
+    "pair": "MANA/ETH",
+    "aggregatorAddress": "0x82A44D92D6c329826dc557c5E1Be6ebeC5D5FeB9",
+    "eventAggregator": "0x3162C2De0C254B97d869a070929B518b5B9B56B3"
+  },
+  {
+    "pair": "MKR/ETH",
+    "aggregatorAddress": "0x24551a8Fb2A7211A25a17B1481f043A8a8adC7f2",
+    "eventAggregator": "0x204A6FE11De66aa463879f47F3533Dd87d47020D"
+  },
+  {
+    "pair": "N225/JPY",
+    "aggregatorAddress": "0x5c4939a2ab3A2a9f93A518d81d4f8D0Bc6a68980",
+    "eventAggregator": "0x4Fa0655c09E0b5B2F50F1bd861B2d9BC63ccBBCB"
+  },
+  {
+    "pair": "OXT/USD",
+    "aggregatorAddress": "0xd75AAaE4AF0c398ca13e2667Be57AF2ccA8B5de6",
+    "eventAggregator": "0x9BB674bDd5190E27aF0d72fEB38447c101A3540b"
+  },
+  {
+    "pair": "Orchid",
+    "aggregatorAddress": "0xa175FA75795c6Fb2aFA48B72d22054ee0DeDa4aC",
+    "eventAggregator": "0x8bD3feF1abb94E6587fCC2C5Cb0931099D0893A0"
+  },
+  {
+    "pair": "REN/ETH",
+    "aggregatorAddress": "0x3147D7203354Dc06D9fd350c7a2437bcA92387a4",
+    "eventAggregator": "0x1A53bF1BFfFB7A2B33e1931D33423C7C94f675ee"
+  },
+  {
+    "pair": "REN/USD",
+    "aggregatorAddress": "0x0f59666EDE214281e956cb3b2D0d69415AfF4A01",
+    "eventAggregator": "0xD286AF227B7b0695387E279B9956540818B1dc2a"
+  },
+  {
+    "pair": "REP/ETH",
+    "aggregatorAddress": "0xD4CE430C3b67b3E2F7026D86E7128588629e2455",
+    "eventAggregator": "0x8e1BB728b37832754A260D99B5467fE6d164c068"
+  },
+  {
+    "pair": "SNX/ETH",
+    "aggregatorAddress": "0x79291A9d692Df95334B1a0B3B4AE6bC606782f8c",
+    "eventAggregator": "0x93d7bBf4CF42bDA5Bb86EaDFad09271040cc10e8"
+  },
+  {
+    "pair": "SNX/USD",
+    "aggregatorAddress": "0xDC3EA94CD0AC27d9A86C180091e7f78C683d3699",
+    "eventAggregator": "0xC8DB8d5869510Bb1FCd3Bd7C7624c1b49c652ef8"
+  },
+  {
+    "pair": "SUSD/ETH",
+    "aggregatorAddress": "0x8e0b7e6062272B5eF4524250bFFF8e5Bd3497757",
+    "eventAggregator": "0x060f728deB96875F992C97414eFf2B3ef6c58EC7"
+  },
+  {
+    "pair": "SXP/USD",
+    "aggregatorAddress": "0xFb0CfD6c19e25DB4a08D8a204a387cEa48Cc138f",
+    "eventAggregator": "0x4A75bfa5B740263e88655a3e1e78892bfc7b036a"
+  },
+  {
+    "pair": "TUSD/ETH",
+    "aggregatorAddress": "0x3886BA987236181D98F2401c507Fb8BeA7871dF2",
+    "eventAggregator": "0x0c632eC5982e3A8dC116a02ebA7A419efec170B1"
+  },
+  {
+    "pair": "USDC/ETH",
+    "aggregatorAddress": "0x986b5E1e1755e3C2440e960477f25201B0a8bbD4",
+    "eventAggregator": "0x00d02526CA08488342aB634de3B2d0050ecC7f60"
+  },
+  {
+    "pair": "USDT/ETH",
+    "aggregatorAddress": "0xEe9F2375b4bdF6387aa8265dD4FB8F16512A1d46",
+    "eventAggregator": "0x1058a82C25F55aB8ab0cE717F3e6e164E80f1A0B"
+  },
+  {
+    "pair": "WOM/ETH",
+    "aggregatorAddress": "0xcEBD2026d3C99F2a7CE028acf372C154aB4638a9",
+    "eventAggregator": "0xd8F46C7e5f9a0DCFac79a79763634FCE9302985f"
+  },
+  {
+    "pair": "XAG/USD",
+    "aggregatorAddress": "0x379589227b15F1a12195D3f2d90bBc9F31f95235",
+    "eventAggregator": "0xF320E19B2ED82F1B226b006cD43FE600FEA56615"
+  },
+  {
+    "pair": "XAU/USD",
+    "aggregatorAddress": "0x214eD9Da11D2fbe465a6fc601a91E62EbEc1a0D6",
+    "eventAggregator": "0x06A7689149cf04DacFDE555d1e1EAD7dD7370316"
+  },
+  {
+    "pair": "XHV/USD",
+    "aggregatorAddress": "0xeccBeEd9691d8521385259AE596CF00D68429de0",
+    "eventAggregator": "0x9c6b454D42a69088719fF8B2Ab30C04808c8D061"
+  },
+  {
+    "pair": "XRP/USD",
+    "aggregatorAddress": "0xCed2660c6Dd1Ffd856A5A82C67f3482d88C50b12",
+    "eventAggregator": "0x75Ed2f61837c3D9Ef1BF0af4DB84664DC6fe56bC"
+  },
+  {
+    "pair": "XTZ/USD",
+    "aggregatorAddress": "0x5239a625dEb44bF3EeAc2CD5366ba24b8e9DB63F",
+    "eventAggregator": "0x7391BB54a24719DA7DD81c2E5176cf954D7f7635"
+  },
+  {
+    "pair": "YFI/ETH",
+    "aggregatorAddress": "0x7c5d4F8345e66f68099581Db340cd65B078C41f4",
+    "eventAggregator": "0x4A03707a1bfeFc2836A69B1A6A6bd752270041A9"
+  },
+  {
+    "pair": "ZRX/ETH",
+    "aggregatorAddress": "0x2Da4983a622a8498bb1a21FaE9D8F6C664939962",
+    "eventAggregator": "0xE03b49682965A1EB5230D41f96E10896dc563F0D"
+  },
+  {
+    "pair": "sDEFI/USD",
+    "aggregatorAddress": "0xa8E875F94138B0C5b51d1e1d5dE35bbDdd28EA87",
+    "eventAggregator": "0x25367741a23464b41B4aB978Bd8092d56a3590C0"
+  }
+]
